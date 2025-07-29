@@ -7,12 +7,12 @@ This project is part of the virtual internship at Codebasics.
 #### Live Dashboard Link: https://tinyurl.com/mwcdvp3e
 
 
-### 🔍 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰:
+#### 🔍 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰:
 
 𝐖𝐚𝐯𝐞𝐜𝐨𝐧 𝐓𝐞𝐥𝐞𝐜𝐨𝐦 sought to evaluate the impact of its Key Performance Indicators (KPIs) pre and post-5G rollout. The goal was to assess service plan performance across cities and drive informed strategic decisions.
 
 
-### 🎯 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞𝐬:
+#### 🎯 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞𝐬:
 
 • Analyze revenue impact on post-5G.
 
@@ -29,7 +29,7 @@ This project is part of the virtual internship at Codebasics.
 • Suggest strategies for business growth.
 
 
-### 📊 𝐊𝐞𝐲 𝐌𝐞𝐭𝐫𝐢𝐜𝐬:
+#### 📊 𝐊𝐞𝐲 𝐌𝐞𝐭𝐫𝐢𝐜𝐬:
 
 • 𝐑𝐞𝐯𝐞𝐧𝐮𝐞: Overall financial performance.
 
@@ -40,7 +40,7 @@ This project is part of the virtual internship at Codebasics.
 • 𝐓𝐔𝐒𝐔: Total Unsubscribed Users – indicates user churn and retention challenges.
 
 
-### 🔎 𝐊𝐞𝐲 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:
+#### 🔎 𝐊𝐞𝐲 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:
 
 📉 Revenue declined after the 5G rollout.
 
