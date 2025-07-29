@@ -1,5 +1,10 @@
-## Wavecon_Telecom_Analysis_Project
+## Wavecon Telecom Analysis Project
 
+This project is part of the virtual internship at Codebasics.
+
+### Video presentation link: https://www.linkedin.com/feed/update/urn:li:activity:7356005458354024452/
+
+### Live Dashboard Link: https://tinyurl.com/mwcdvp3e
 
 ### 🔍 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰:
 
